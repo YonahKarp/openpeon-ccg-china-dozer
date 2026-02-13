@@ -1,0 +1,65 @@
+{
+  "cesp_version": "1.0",
+  "name": "ccg_usa_dozer",
+  "display_name": "C&C Generals: China Dozer",
+  "version": "1.0.0",
+  "author": { "name": "Yonah Karp", "github": "YonahKarp" },
+  "license": "CC-BY-NC-4.0",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/Hmm.mp3", "label": "Hmm?" },
+        { "file": "sounds/ah_yes.mp3", "label": "Ah yes." },
+        { "file": "sounds/Here_let_me_help.mp3", "label": "Here, let me help." }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        { "file": "sounds/A_very_good_plan.mp3", "label": "A very good plan." },
+        { "file": "sounds/A_very_good_plan_general.mp3", "label": "A very good plan, general." },
+        { "file": "sounds/Thats_a_good_choice.mp3", "label": "That's a good choice." },
+        { "file": "sounds/Hmm_nice_location.mp3", "label": "Hmm, nice location." },
+        { "file": "sounds/Looks_promising.mp3", "label": "Looks promising." },
+        { "file": "sounds/No_porblem.mp3", "label": "No problem." },
+        { "file": "sounds/of_course.mp3", "label": "Of course." },
+        { "file": "sounds/lets_build.mp3", "label": "Let's build." },
+        { "file": "sounds/We_have_big_plans.mp3", "label": "We have big plans." },
+        { "file": "sounds/I_know_just_what_it_needs.mp3", "label": "I know just what it needs." },
+        { "file": "sounds/It_will_look_real_nice_when_its_done.mp3", "label": "It will look real nice when it's done." },
+        { "file": "sounds/That_a_good_start.mp3", "label": "That's a good start." }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/Build_orders_complete_sir.mp3", "label": "Build orders complete, sir." },
+        { "file": "sounds/Building_is_complete.mp3", "label": "Building is complete." },
+        { "file": "sounds/Construction_built_to_spec.mp3", "label": "Construction built to spec." },
+        { "file": "sounds/Construction_is_complete.mp3", "label": "Construction is complete." },
+        { "file": "sounds/We_will_live_in_prosperity.mp3", "label": "We will live in prosperity." }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/Could_use_a_little_touch_up.mp3", "label": "Could use a little touch up." },
+        { "file": "sounds/Thats_not_a_good_spot_try_another.mp3", "label": "That's not a good spot, try another." },
+        { "file": "sounds/I_am_unable_to_build_there.mp3", "label": "I am unable to build there." }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/hmm_lets_take_a_look.mp3", "label": "Hmm, let's take a look." }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        { "file": "sounds/Theres_not_enough_build_space.mp3", "label": "There's not enough build space." }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        { "file": "sounds/Im_busy.mp3", "label": "I'm busy." }
+      ]
+    }
+  }
+}
