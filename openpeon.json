@@ -1,8 +1,8 @@
 {
   "cesp_version": "1.0",
-  "name": "ccg_usa_dozer",
+  "name": "ccg_china_dozer",
   "display_name": "C&C Generals: China Dozer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": { "name": "Yonah Karp", "github": "YonahKarp" },
   "license": "CC-BY-NC-4.0",
   "language": "en",
